@@ -29,6 +29,3 @@
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.lima1/)
 
 <br/>
-
-![Snake animation](https://github.com/seu-usuário-aqui/GabrielLima2803/blob/output/github-contribution-grid-snake.svg)
-
