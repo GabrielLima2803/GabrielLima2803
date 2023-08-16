@@ -9,8 +9,7 @@
 
 <div style=""><br/>
 
-![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLima2803&show_icons=true&theme=dark)
-
+![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLima&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima2803&layout=compact&theme=dark)
 </div>
 
