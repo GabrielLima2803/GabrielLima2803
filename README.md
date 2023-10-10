@@ -1,7 +1,6 @@
 
 <div>
-<h2 style="text-align: center">Gabriel Lima</h2>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Gabriel+Lima+de+Souza" alt="Typing SVG" /></a></div>
 
 <a href="https://github.com/GabrielLima2803">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima2803&layout=compact&langs_count=7&theme=dark"/>
