@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hello;My+name+is+Gabriel+Lima+De+Souza" alt="Typing SVG" /></a><br/>
 
@@ -44,4 +43,3 @@
 </a>
 <a href = "mailto:contato.gabriellima2803@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
