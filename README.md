@@ -16,4 +16,9 @@ Estudante do Instituto Federal Catarinense, cursando o técnico em informática 
 <div> 
 <a href="https://www.instagram.com/_.lima1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/gabriel-lima-5a04a2294/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>&nbsp;&nbsp;
+
+
+
