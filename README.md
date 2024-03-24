@@ -1,6 +1,6 @@
 ## Olá, sou Gabriel Lima
 
-Estudante do Instituto Federal Catarinense, cursando o técnico em informática para internet. Atualmente, estou no meu terceiro ano do ensino médio. Sou apaixonado por códigos, fazer novos projetos, música e uma infinidade de outras coisas. Tendo interesse em sempre aprender coisas novas.
+Estudante do Instituto Federal Catarinense, cursando o técnico em informática para internet. Atualmente, estou no meu terceiro ano do ensino médio.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
