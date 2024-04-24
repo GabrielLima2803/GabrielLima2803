@@ -1,1 +1,1 @@
-Just a developer passionate about backends
+A developer passionate about backends
