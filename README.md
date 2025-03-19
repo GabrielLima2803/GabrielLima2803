@@ -3,11 +3,11 @@
 
   <p align="center">
     <a href="#">
-      <img title="Desenvolvedor Full Stack" src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack-blue?style=for-the-badge">
+      <img title="Desenvolvedor Backend" src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack-blue?style=for-the-badge">
     </a>
   </p>
 
-  - **Desenvolvedor Full Stack** 🚀  
+  - **Desenvolvedor Backend** 🚀  
   - Principais Tecnologias: **Java**, **Spring Boot**, **Vue.js 3**, **TypeScript**, **Node** e **Docker** 🖥️  
   - Formação técnica: **Instituto Federal Catarinense** – Campus Araquari 🎓
   - Apaixonado por backends e arquiteturas de microsserviços
