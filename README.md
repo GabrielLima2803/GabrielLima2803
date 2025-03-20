@@ -9,7 +9,7 @@
 
   - **Desenvolvedor Backend** 🚀  
   - Principais Tecnologias: **Java**, **Spring Boot**, **Vue.js 3**, **TypeScript**, **Node** e **Docker** 🖥️  
-  - Formação técnica: **Instituto Federal Catarinense** – Campus Araquari 🎓
+  - Formação técnica: **Informática para Internet - Instituto Federal Catarinense** – Campus Araquari 🎓
   - Apaixonado por backends e arquiteturas de microsserviços
   <p>
     Sinta-se à vontade para se conectar comigo | 
