@@ -10,8 +10,7 @@
   - **Desenvolvedor Backend** 🚀  
   - Principais Tecnologias: **Java**, **Spring Boot**, **Vue.js 3**, **TypeScript**, **Node** e **Docker** 🖥️  
   - Formação técnica: **Informática para Internet - Instituto Federal Catarinense** – Campus Araquari 🎓
-  - Formação em processo: **bacharelado em Ciência da Computação - Centro Universitário UDESC**
-  - Apaixonado por backends e arquiteturas de microsserviços
+  - Formação em processo: **Bacharelado em Ciência da Computação - Centro Universitário UDESC** 📚
   <p>
     Sinta-se à vontade para se conectar comigo | 
     <a href="https://www.linkedin.com/in/gabriel-limadev/">LinkedIn</a>
